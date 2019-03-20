@@ -1,0 +1,22 @@
+abcd 23@
+ab2.sh
+abc.sh
+Android
+android-studio
+android-studio-ide-182.5314842-linux.zip
+AndroidStudioProjects
+a.txt
+Desktop
+Documents
+Downloads
+examples.desktop
+java_error_in_STUDIO_2460.log
+LAB DATA
+Music
+Pictures
+Public
+remshad
+Templates
+Untitled Document
+Videos
+wordcount.sh
